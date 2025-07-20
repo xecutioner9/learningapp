@@ -130,3 +130,4 @@ c:\Users\Administrator\Downloads\application\application\learningapp\obj\Debug\n
 c:\Users\Administrator\Downloads\application\application\learningapp\obj\Debug\net8.0\learningapp.pdb
 C:\Users\Administrator\Downloads\application\application\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\Administrator\Downloads\application\application\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+c:\Users\Administrator\Downloads\application\application\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json

@@ -15,11 +15,11 @@ public class IndexModel : PageModel
         _configuration=configuration;
     }
 
-    public void OnGet()
+/*    public void OnGet()
     {
        
         string connectionString = _configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING")!;
-        var sqlConnection = new SqlConnection(connectionString);
+         var sqlConnection = new SqlConnection(connectionString);
         sqlConnection.Open();
 
         var sqlcommand = new SqlCommand(
@@ -33,5 +33,5 @@ public class IndexModel : PageModel
                     Rating=Decimal.Parse(sqlDatareader["Rating"].ToString())});
                 }
          }
-    }
+    } */
 }
